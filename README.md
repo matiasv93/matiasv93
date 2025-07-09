@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Mati from Rosario, Argentina<br><br>- 🔭 I’m working as Software Engineer focused on Frontend.<br>- 📚 I'm currently learning about cloud infrastructure and architecture.<br>- ⚡ In my free time I love to cook and spend time with my cats.</p>
+<p align="left">I'm Mati from Rosario, Argentina 🇦🇷<br><br>- 🔭 I’m working as Software Engineer focused on Frontend.<br>- 📚 I'm currently learning about cloud infrastructure and architecture.<br>- ⚡ In my free time I love to cook and spend time with my cats.</p>
 
 ###
 
